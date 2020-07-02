@@ -1,0 +1,22 @@
+host： 标记来源于那台虚拟或物理机子。
+source: 标记来源那个数据流,比如一个文件。
+sourcetype: 归类source类型。
+field： 由于数据一般是以逗号做分割，然后没有明确表示每个值是什么意思，你可以在这个页面对
+N个值给N个filed name，方便可读和查询。可以类似index=”artraw” sourcetype=”artraw-csv”查出最原始的Event之后，点击这个做自定fitter。
+————————————————
+版权声明：本文为CSDN博主「ssegrub」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u011468626/article/details/77619582host： 标记来源于那台虚拟或物理机子。
+source: 标记来源那个数据流,比如一个文件。
+sourcetype: 归类source类型。
+field： 由于数据一般是以逗号做分割，然后没有明确表示每个值是什么意思，你可以在这个页面对
+N个值给N个filed name，方便可读和查询。可以类似index=”artraw” sourcetype=”artraw-csv”查出最原始的Event之后，点击这个做自定fitter。
+————————————————
+版权声明：本文为CSDN博主「ssegrub」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u011468626/article/details/77619582host： 标记来源于那台虚拟或物理机子。
+source: 标记来源那个数据流,比如一个文件。
+sourcetype: 归类source类型。 bilibili.tidb
+field： 由于数据一般是以逗号做分割，然后没有明确表示每个值是什么意思，你可以在这个页面对
+N个值给N个filed name，方便可读和查询。可以类似index=”artraw” sourcetype=”artraw-csv”查出最原始的Event之后，点击这个做自定fitter。
+————————————————
+版权声明：本文为CSDN博主「ssegrub」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u011468626/article/details/77619582
